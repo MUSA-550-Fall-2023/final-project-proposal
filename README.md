@@ -28,7 +28,7 @@ assignment's GitHub repository with your proposal.
 If you're working in groups for the final project, only one person needs to submit the proposal. However,
 make sure you include all of the group members' names in the proposal!
 
-### Submission links
+## Submission
 
 Submission links vary by section. The links are:
 
