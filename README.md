@@ -1,5 +1,9 @@
 # Final Project Proposal
 
+## Due date
+
+Monday, December 4, 2023 at 11:59 PM
+
 ## Overview
 
 Submit a short (1/2 to 1 page) proposal that outlines and describe your plan for the final project. The proposal should discuss the following aspects of the project:
@@ -8,7 +12,6 @@ Submit a short (1/2 to 1 page) proposal that outlines and describe your plan for
 - the questions that you want to explore
 - the analysis methods and techniques that you will use
 - how the above items satisfy the requirements outlined in the [final project description](https://github.com/MUSA-550-Fall-2023/final-project)
-
 
 The description of the final project can be found [here](https://github.com/MUSA-550-Fall-2023/final-project).
 
@@ -29,6 +32,6 @@ make sure you include all of the group members' names in the proposal!
 
 Submission links vary by section. The links are:
 
-> Section 401: 
+> Section 401: [https://classroom.github.com/a/4WQ_dOz9](https://classroom.github.com/a/4WQ_dOz9)
 >
-> Section 402: 
+> Section 402: [https://classroom.github.com/a/xAPP96O0](https://classroom.github.com/a/xAPP96O0)
