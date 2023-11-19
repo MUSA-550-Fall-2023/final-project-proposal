@@ -2,7 +2,7 @@
 
 ## Due date
 
-Monday, December 4, 2023 at 11:59 PM
+Wednesday, December 6, 2023 at 11:59 PM
 
 ## Overview
 
